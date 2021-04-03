@@ -1,6 +1,7 @@
 // vue.config.js file to be place in the root of your repository
 
-module.exports = {
+module.exports = {    
+    baseUrl: '',
     publicPath: process.env.NODE_ENV === 'production'
       ? '/quiz_app/'
       : '/'
