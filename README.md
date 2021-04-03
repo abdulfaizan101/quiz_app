@@ -1,6 +1,4 @@
----
-permalink: /index.html
----
+
 # quiz
 
 ## Project setup
