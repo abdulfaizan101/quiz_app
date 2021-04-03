@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 # quiz
 
 ## Project setup
@@ -9,6 +12,7 @@ npm install
 ```
 npm run serve
 ```
+
 
 ### Compiles and minifies for production
 ```
