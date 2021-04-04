@@ -9,7 +9,7 @@
     <Header :correctAnswer='correctAnswer' :totalAnswer="totalAnswer" />
     <b-container class="bv-example-row">
       <b-row>
-        <b-col v-if="questions.length > 0"  cols="6" offset="3">
+        <b-col v-if="questions.length > 0" cols="6" offset="3">
           <questionBox :increment='increment' :currentQuestion="questions[index]" :changeQuestion="changeQuestion"/>
         </b-col>
       </b-row>
